@@ -3,38 +3,45 @@ CSCI3000 Web Programming Project Group 7
 Member 1 : Oliver Carrillo -
 Member 2 : Dan Pynzenyk -
 Member 3 : Kai Soustin-
-Member 4 :  -
+Member 4 : pending.. -
 
 ---------------------------------------------------
 ## ✅ Rubric Requirements Checklist
 
+###  HTML (15/70)
 ### 🏗️ HTML (15/70)
-- [ ] **First Page:** `index.html`
-- [ ] **Minimum 2 Pages:** Includes `index.html` and `secondary.html`
-- [ ] **Data Table:** Used for [Describe what's in your table]
-- [ ] **Interactive Form:** Located on [Page Name]
-- [ ] **Media & Navigation:** Uses images and links throughout
-- [ ] **Documentation:** Well-commented code
+- [ ] **Uses index.html as first page**
+- [ ] **2 html pages Minimum**
+- [ ] **1 table**
+- [ ] **1 form**
+- [ ] **Uses images**
+- [ ] **Uses links**
+- [ ] **Well commented code**
 
-### 🎨 CSS (15/70)
-- [ ] **External Styling:** Uses `style.css`
-- [ ] **Layout:** Uses **Flexbox** or **Grid** for structure
-- [ ] **Box Model:** Strategic use of padding/margin
-- [ ] **Typography:** Custom font and text properties
-- [ ] **Advanced Features:** Positioned elements and button special effects
+### 🎨 Cascading Style Sheets (CSS) (15/70)
+- [ ] **Uses a CSS file(s)**
+- [ ] **Has Basic Selectors**
+- [ ] **Uses Common Properties**
+- [ ] **Uses font and text properties**
+- [ ] **Uses Box model (padding/margin) to look nicer**
+- [ ] **Uses either flexbox or grid container**
+- [ ] **Uses positioning**
+- [ ] **Form is styled**
+- [ ] **Special effects: such as button styling**
 
 ### ⚙️ JavaScript (40/70)
-- [ ] **Logic:** Arithmetic operations and Conditionals
-- [ ] **Loops:** Used for [Describe use case, e.g., RegEx iteration]
-- [ ] **Functions:** Minimum of 1 major function
-- [ ] **Form Validation:** Uses **RegEx** for input checking
-- [ ] **DOM Manipulation:** Utilizing the Document Object Model
-- [ ] **Error Handling:** **Try/Catch** block implemented
-- [ ] **Data Persistence:** **Local/Session Storage** utilized
-- [ ] **UI Feedback:** Uses Alert or Confirm dialogs
+- [ ] **Uses either a js file or script tags**
+- [ ] **JavaScript Arithmetic**
+- [ ] **JavaScript Conditionals**
+- [ ] **JavaScript Loops** (*Note: RegEx iterates through a string so that counts*)
+- [ ] **JavaScript Function (Minimum: 1)**
+- [ ] **Form Validation**
+- [ ] **Utilize DOM**
+- [ ] **Use an Alert or Confirm**
+- [ ] **Use a Try Catch Block**
+- [ ] **Use Local or Session Storage**
+--------------
 
----
-
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository: `git clone [Repo URL]`
 2. Open `index.html` in any modern web browser.
