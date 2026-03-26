@@ -10,16 +10,32 @@ h1 {
     box-sizing: border-box;
 }
 
-.main-nav{
+/*Main navigation bar (home, vehicles, about us, etc.)*/
+.main-nav {
     max-width: 1300px;
+    width: 100%;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 20px 20px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-
-    overflow:hidden;
+    position: fixed;
+    overflow: hidden;
+    background-color: #2c2c2c;
 }
+
+/*trying to move image to top left of screen*/
+.main-nav image{
+    position: fixed;
+    left: 100px;
+}
+/*style for buttons in the main-nav*/
+#nav-button {
+    width:10%;
+    height:20%;
+    background-color:#fDFBD4;
+}
+
 header {
     background-color: #333;
     color: #fff;
