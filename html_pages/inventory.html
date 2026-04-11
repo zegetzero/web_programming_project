@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Inventory – Dealership</title>
     <link rel="stylesheet" href="css_sheets/style.css">
+    <script src="../java_scripts/inventory.js" defer></script>
     <style>
         /* Dan | Start */
         .page-content {
@@ -69,6 +70,10 @@
     <!-- Dan | Start -->
     <div class="page-content">
         <h1 class="page-title">Inventory</h1>
+        <input type="text" id="searchBox" placeholder="Search inventory..."
+            style="width:100%; padding:10px; margin-bottom:15px; background:#2c2c2c; 
+            color:#fff; border:1px solid #444; border-radius:4px;">
+        <p id="avgPrice" style="color:#fff; text-align:center; margin-bottom:20px;"></p>
  
         <table class="inventory-table">
             <thead>
