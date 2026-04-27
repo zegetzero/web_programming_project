@@ -9,17 +9,11 @@ body {
     font-family: sans-serif;
 }
 
-.usr_register {
-    color: white;
-    text-align: center;
-    padding: 20px;
-    width: 300px; /* Matching the width of the other sections */
-}
 
-.builds{
+.cars{
     display: flex;
     flex-direction: column;
-    width: 300px; /* Unified width */
+    width: 300px; 
     gap: 10px;
     margin-bottom: 30px;
     color: white;
